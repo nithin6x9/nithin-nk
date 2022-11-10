@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nithinkrushna78@gmail.com**
 
-- ⚡ Fun fact **Squid by midnight.**
+- ⚡ Fun fact **Owl.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
