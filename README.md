@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin-nk&label=Profile%20views&color=0e75b6&style=flat" alt="nithin-nk" /> </p>
 
-- 🔭 I’m currently working on **amFoss-tasks**
+- 🔭 I’m currently working on **.**
 
 - 🌱 I’m currently learning **Machine Learning.**
 
