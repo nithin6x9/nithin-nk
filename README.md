@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **.**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Nothing<lol>**
 
