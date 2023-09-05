@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin-nk&label=Profile%20views&color=0e75b6&style=flat" alt="nithin-nk" /> </p>
 
-- 🔭 I’m currently working on **Nothin'n**
+- 🔭 I’m currently working on **pip development**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **PIP**
 
 - 💬 Ask me about **Python**
 
