@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin-nk&show_icons=true&locale=en&layout=compact" alt="nithin-nk" /></p>
 
-![MasterHead](https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif)
