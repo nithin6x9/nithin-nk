@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif)
 <h1 align="center">Hi 👋, I'm Nithin Krishna</h1>
-<h3 align="center">A young passionate Student from India</h3>
+<h3 align="center">DEV;</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif">
 
